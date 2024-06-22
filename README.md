@@ -1,1 +1,3 @@
 # Monte-Carlo-Simulation-based-Stock-price-prediction
+
+This project aims to use Monte Carlo simulation to forecast stock returns and predict volatility. Monte Carlo methods involve running a large number of simulations to model the probability of different outcomes in financial markets. By simulating a stock's price over time, you can estimate future returns and the volatility of those returns. Additionally, an Artificial Neural Network (ANN) model will be used to compare the returns on investments and volatility predictions obtained from the Monte Carlo Simulation. Statistical inferences such as Pearson correlation coefficient, t-test, and p-value analysis will be included to validate the models and improve the accuracy of predictions.
